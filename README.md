@@ -7,6 +7,16 @@
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=lakshmandhulipudi&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
 
+<p style="margin: 0;">
+  <a href="https://www.linkedin.com/in/dhulipudi-lakshman-715845300/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="lakshman" />
+  </a>
+  <a href="https://www.instagram.com/lakshman_dhulipudi/" target="_blank" style="text-decoration: none; margin-left: 8px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="lakshman_dhulipudi" />
+  </a>
+</p>
+
+
 
 - 🔭 I’m currently working on **full stack web development**
 
