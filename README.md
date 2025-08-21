@@ -1,7 +1,12 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Lakshman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h1 align="center"><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Lakshman+Dhulipudi;Java+Full+Stack+Developer" alt="Typing SVG" />
+</p></h1>
+
+<img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lakshmandhulipudi&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
+
 
 - 🔭 I’m currently working on **full stack web development**
 
